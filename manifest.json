@@ -1,7 +1,7 @@
 {
-  "name": "Teacher's Dashboard — Mr. Lal Krishna Das",
+  "name": "Teacher's Dashboard — Mr. Abin Babu A.",
   "short_name": "Timetable Dashboard App",
-  "description": "Personal timetable dashboard for Lal Krishnadas",
+  "description": "Personal timetable dashboard for Abin Babu A.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
